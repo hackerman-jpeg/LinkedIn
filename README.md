@@ -22,7 +22,10 @@ May not work, but I got it functional on my Safari browser.
 1. **Navigate** to the relevant LinkedIn page:  
    - 👥 Unfollow → [See here](https://www.linkedin.com/help/linkedin/answer/a546122/viewing-recent-activity?lang=en)
    - 👍 Unlike → [See here](https://www.linkedin.com/help/linkedin/answer/a546122/viewing-recent-activity?lang=en)  
-   - 💬 Delete Comments → [See here](https://www.linkedin.com/help/linkedin/answer/a546122/viewing-recent-activity?lang=en)   
+   - 💬 Delete Comments → [See here](https://www.linkedin.com/help/linkedin/answer/a546122/viewing-recent-activity?lang=en)
+  
+![Activity Settings](https://github.com/user-attachments/assets/51d8c25e-47ea-4ad1-86d4-aefb68e18d80)
+
 
 2. **Open Developer Console**  
    - Safari: `Option + Command + C`  
