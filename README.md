@@ -2,6 +2,7 @@
 
 ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Status](https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge&logo=linkedin)
+
 ⚠️ **Disclaimer**  
 May not work, but I got it functional on my Safari browser.  
 
