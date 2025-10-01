@@ -25,6 +25,7 @@ May not work, but I got it functional on my Safari browser.
    - 💬 Delete Comments → [See here](https://www.linkedin.com/help/linkedin/answer/a546122/viewing-recent-activity?lang=en)
   
 ![Activity Settings](https://github.com/user-attachments/assets/51d8c25e-47ea-4ad1-86d4-aefb68e18d80)
+![These are the tabs you need to be on when running script in console](https://github.com/user-attachments/assets/28dce130-c11d-4733-ba63-33543683fead)
 
 
 2. **Open Developer Console**  
