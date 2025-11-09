@@ -1,19 +1,20 @@
 # LinkedIn Browser Scripts
-
 ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Status](https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge&logo=linkedin)
+
+Set of scripts to run in browser console on various LinkedIn pages to remove likes, unfollow people, etc. Useful when you've got thousands of connections or likes, or need to clean up your digital footprint on LinkedIn. **Remember**, likes and people you are following are public to non-connections. 
 
 ⚠️ **Disclaimer**  
 May not work, but I got it functional on my Safari browser.  
 
 ---
 
-## Features
+## Contents
 
-- **Bulk Unfollow** – Automatically unfollow people you’re following.  
-- **Bulk Unlike** – Automatically remove likes/reactions from posts.  
-- **Bulk Delete My Comments** – Delete all your comments, one by one.  
-- **Control Panel** – Start, stop, and monitor progress via console commands.  
+- **delete-comments.js** - Deletes comments you've made on posts
+- **feed_unfollow.js** - Unfollows pages and people from the Feed page (to catch stragglers LinkedIn doesn't show as you following)
+- **unfollow.js** - Unfollows people from Connections page (also works if you run on Pages to unfollow pages)
+- **unlike.js** - Removes anything you've liked from the Activities page
 
 ---
 
